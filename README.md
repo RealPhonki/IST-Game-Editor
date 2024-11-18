@@ -60,12 +60,3 @@ Once the map is exported do the following the play your level:
 3. Paste the contents of `out/obstacles.txt` into the same slot as in step 1 in `Obstacle List` in the scratch project
 4. Paste the contents of `out/goal-list.txt` into the same slot as in step 1 in `Goal List` in the scratch project
 5. Play the game to reach the level you overrode/added
-
-## Meta
-Gmail - phonkibusiness@gmail.com
-
-Github - https://github.com/RealPhonki
-
-Find me on the Python Discord Server - https://discord.com/invite/python
-
-Discord Tag - `realphonki`
